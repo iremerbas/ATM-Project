@@ -1,0 +1,47 @@
+C:\Users\Dell\source\repos\Atm_Uygulamasi\Atm_Uygulamasi\obj\Debug\Atm_Uygulamasi.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\Atm_Uygulamasi\Atm_Uygulamasi\obj\Debug\Atm_Uygulamasi.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dell\source\repos\Atm_Uygulamasi\Atm_Uygulamasi\obj\Debug\Atm_Uygulamasi.AtmScreen.resources
+C:\Users\Dell\source\repos\Atm_Uygulamasi\Atm_Uygulamasi\obj\Debug\Atm_Uygulamasi.atmScreenSelected.resources
+C:\Users\Dell\source\repos\Atm_Uygulamasi\Atm_Uygulamasi\obj\Debug\Atm_Uygulamasi.Properties.Resources.resources
+C:\Users\Dell\source\repos\Atm_Uygulamasi\Atm_Uygulamasi\obj\Debug\Atm_Uygulamasi.csproj.GenerateResource.cache
+C:\Users\Dell\source\repos\Atm_Uygulamasi\Atm_Uygulamasi\obj\Debug\Atm_Uygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\Atm_Uygulamasi\Atm_Uygulamasi\bin\Debug\Atm_Uygulamasi.exe.config
+C:\Users\Dell\source\repos\Atm_Uygulamasi\Atm_Uygulamasi\bin\Debug\Atm_Uygulamasi.exe
+C:\Users\Dell\source\repos\Atm_Uygulamasi\Atm_Uygulamasi\bin\Debug\Atm_Uygulamasi.pdb
+C:\Users\Dell\source\repos\Atm_Uygulamasi\Atm_Uygulamasi\obj\Debug\Atm_Uygulamasi.exe
+C:\Users\Dell\source\repos\Atm_Uygulamasi\Atm_Uygulamasi\obj\Debug\Atm_Uygulamasi.pdb
+C:\Users\Dell\source\repos\Atm_Uygulamasi\Atm_Uygulamasi\obj\Debug\Atm_Uygulamasi.ParaCekme.resources
+C:\Users\Dell\source\repos\Atm_Uygulamasi\Atm_Uygulamasi\obj\Debug\Atm_Uygulamasi.ParaGonderme.resources
+C:\Users\Dell\source\repos\Atm_Uygulamasi\Atm_Uygulamasi\obj\Debug\Atm_Uygulamasi.ParaYatırma.resources
+C:\Users\Dell\Desktop\Atm_Uygulamasi\Atm_Uygulamasi\bin\Debug\Atm_Uygulamasi.exe.config
+C:\Users\Dell\Desktop\Atm_Uygulamasi\Atm_Uygulamasi\bin\Debug\Atm_Uygulamasi.exe
+C:\Users\Dell\Desktop\Atm_Uygulamasi\Atm_Uygulamasi\bin\Debug\Atm_Uygulamasi.pdb
+C:\Users\Dell\Desktop\Atm_Uygulamasi\Atm_Uygulamasi\obj\Debug\Atm_Uygulamasi.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\Atm_Uygulamasi\Atm_Uygulamasi\obj\Debug\Atm_Uygulamasi.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dell\Desktop\Atm_Uygulamasi\Atm_Uygulamasi\obj\Debug\Atm_Uygulamasi.AddCustomer.resources
+C:\Users\Dell\Desktop\Atm_Uygulamasi\Atm_Uygulamasi\obj\Debug\Atm_Uygulamasi.AtmScreen.resources
+C:\Users\Dell\Desktop\Atm_Uygulamasi\Atm_Uygulamasi\obj\Debug\Atm_Uygulamasi.atmScreenSelected.resources
+C:\Users\Dell\Desktop\Atm_Uygulamasi\Atm_Uygulamasi\obj\Debug\Atm_Uygulamasi.ParaCekme.resources
+C:\Users\Dell\Desktop\Atm_Uygulamasi\Atm_Uygulamasi\obj\Debug\Atm_Uygulamasi.ParaGonderme.resources
+C:\Users\Dell\Desktop\Atm_Uygulamasi\Atm_Uygulamasi\obj\Debug\Atm_Uygulamasi.ParaYatırma.resources
+C:\Users\Dell\Desktop\Atm_Uygulamasi\Atm_Uygulamasi\obj\Debug\Atm_Uygulamasi.Properties.Resources.resources
+C:\Users\Dell\Desktop\Atm_Uygulamasi\Atm_Uygulamasi\obj\Debug\Atm_Uygulamasi.csproj.GenerateResource.cache
+C:\Users\Dell\Desktop\Atm_Uygulamasi\Atm_Uygulamasi\obj\Debug\Atm_Uygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\Atm_Uygulamasi\Atm_Uygulamasi\obj\Debug\Atm_Uygulamasi.exe
+C:\Users\Dell\Desktop\Atm_Uygulamasi\Atm_Uygulamasi\obj\Debug\Atm_Uygulamasi.pdb
+C:\Users\Dell\Desktop\Github'a atılacak projeler\Atm_Uygulamasi\Atm_Uygulamasi\bin\Debug\Atm_Uygulamasi.exe.config
+C:\Users\Dell\Desktop\Github'a atılacak projeler\Atm_Uygulamasi\Atm_Uygulamasi\bin\Debug\Atm_Uygulamasi.exe
+C:\Users\Dell\Desktop\Github'a atılacak projeler\Atm_Uygulamasi\Atm_Uygulamasi\bin\Debug\Atm_Uygulamasi.pdb
+C:\Users\Dell\Desktop\Github'a atılacak projeler\Atm_Uygulamasi\Atm_Uygulamasi\obj\Debug\Atm_Uygulamasi.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\Github'a atılacak projeler\Atm_Uygulamasi\Atm_Uygulamasi\obj\Debug\Atm_Uygulamasi.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dell\Desktop\Github'a atılacak projeler\Atm_Uygulamasi\Atm_Uygulamasi\obj\Debug\Atm_Uygulamasi.AddCustomer.resources
+C:\Users\Dell\Desktop\Github'a atılacak projeler\Atm_Uygulamasi\Atm_Uygulamasi\obj\Debug\Atm_Uygulamasi.AtmScreen.resources
+C:\Users\Dell\Desktop\Github'a atılacak projeler\Atm_Uygulamasi\Atm_Uygulamasi\obj\Debug\Atm_Uygulamasi.atmScreenSelected.resources
+C:\Users\Dell\Desktop\Github'a atılacak projeler\Atm_Uygulamasi\Atm_Uygulamasi\obj\Debug\Atm_Uygulamasi.ParaCekme.resources
+C:\Users\Dell\Desktop\Github'a atılacak projeler\Atm_Uygulamasi\Atm_Uygulamasi\obj\Debug\Atm_Uygulamasi.ParaGonderme.resources
+C:\Users\Dell\Desktop\Github'a atılacak projeler\Atm_Uygulamasi\Atm_Uygulamasi\obj\Debug\Atm_Uygulamasi.ParaYatırma.resources
+C:\Users\Dell\Desktop\Github'a atılacak projeler\Atm_Uygulamasi\Atm_Uygulamasi\obj\Debug\Atm_Uygulamasi.Properties.Resources.resources
+C:\Users\Dell\Desktop\Github'a atılacak projeler\Atm_Uygulamasi\Atm_Uygulamasi\obj\Debug\Atm_Uygulamasi.csproj.GenerateResource.cache
+C:\Users\Dell\Desktop\Github'a atılacak projeler\Atm_Uygulamasi\Atm_Uygulamasi\obj\Debug\Atm_Uygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\Github'a atılacak projeler\Atm_Uygulamasi\Atm_Uygulamasi\obj\Debug\Atm_Uygulamasi.exe
+C:\Users\Dell\Desktop\Github'a atılacak projeler\Atm_Uygulamasi\Atm_Uygulamasi\obj\Debug\Atm_Uygulamasi.pdb
